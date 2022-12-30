@@ -1,0 +1,22 @@
+.bodyback
+{
+	text-align: center;
+	background-image: url("walllpapers\ for\ canvas.webp");
+	background-size: cover;
+	background-position:center ;
+}
+span
+{
+	font-size: 18px;
+	color: white;
+
+}
+h1 {
+	color: white;
+	font-weight: bolder;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
